@@ -13,7 +13,7 @@ Jimm's Prefs works exactly like UnityEngine.PlayerPrefs.
 Despite this, some extra features have been added!
 (For example, you can now store more variables directly!)<br>
 
-*No more boolean to int nonsense!*
+*No more boolean to int conversion nonsense!*
 ```c#
   JimmsPrefs.SetBool("IsTrue", true);
 ```
