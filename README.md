@@ -1,5 +1,6 @@
 # Jimms-Prefs
 A custom playerprefs system with a couple extra savable variables!
+![Showcase](https://github.com/user-attachments/assets/3eddf954-6f06-43f9-ab8f-f1106683b52f)
 
 ## Documentation
 ### Storing Values
