@@ -11,7 +11,7 @@ Jimm's Prefs works exactly like UnityEngine.PlayerPrefs:
   JimmsPrefs.SetFloat("RandomFloat", 1.5f);
 ```
 <br>
-However, this system has some extra features! For example, you can now store more variable types directly!<br><br>
+However, this system has some extra features! Most importantly, you can now store more variable types directly!<br><br>
 
 
 *No more boolean to int conversion nonsense!*
